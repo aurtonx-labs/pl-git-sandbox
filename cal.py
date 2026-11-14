@@ -14,7 +14,7 @@ def add(a, b):
 
 def subtract(a, b):
     """Return a minus b."""
-    return  
+    return  a-b
 
 
 def multiply(a, b):
