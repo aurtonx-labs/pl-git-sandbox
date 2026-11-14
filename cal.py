@@ -14,7 +14,7 @@ def add(a, b):
 
 def subtract(a, b):
     """Return a minus b."""
-    return ______
+    return  
 
 
 def multiply(a, b):
@@ -26,7 +26,7 @@ def divide(a, b):
     """Return a divided by b. Handle division by zero."""
     if b == 0:
         return "Error: cannot divide by zero"
-    return ______
+    return a / b
 
 
 def floor_divide(a, b):
