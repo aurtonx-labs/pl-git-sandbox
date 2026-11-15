@@ -19,7 +19,7 @@ def subtract(a, b):
 
 def multiply(a, b):
     """Return a multiplied by b."""
-    return ______
+    return a * b
 
 
 def divide(a, b):
