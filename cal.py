@@ -33,7 +33,7 @@ def floor_divide(a, b):
     """Return a divided by b, rounded down to a whole number."""
     if b == 0:
         return "Error: cannot divide by zero"
-    return ______
+    return a // b
 
 
 def modulus(a, b):
